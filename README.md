@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 #
 
-- 數據 ：collect_imgs.py
-- 準備資料創建
+- 數據 ：01_collect_imgs.py
+- 準備資料創建(預處理)：02_create_dataset.py
 - 訓練模型
 - 測試模型
